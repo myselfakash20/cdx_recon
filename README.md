@@ -17,12 +17,10 @@ CDX Recon is a powerful Python tool designed for bug bounty hunters and security
 📌 Installation
 Clone the repository and install dependencies:
 
-bash
-Copy code
 # Clone the repository
 ```git clone https://github.com/myselfakash20/cdx_recon.git <br>
-cd cdx_recon ```
-
+cd cdx_recon
+```
 # Install dependencies
 pip install -r requirements.txt
 🚀 Usage
