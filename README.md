@@ -5,16 +5,17 @@
 🛠 About CDX Recon
 CDX Recon is a powerful Python tool designed for bug bounty hunters and security researchers. It automates the retrieval of archived URLs, JavaScript files, API endpoints, and subdomains from the Wayback Machine (CDX API), helping you uncover hidden attack surfaces efficiently.
 
-🎯 Features
-✅ Retrieve Archived URLs from Wayback Machine 📂
-✅ Extract JavaScript, JSON, PHP, XML files for sensitive data discovery 🔑
-✅ Find old web pages that may have unpatched vulnerabilities ⚠️
-✅ Fetch data from specific years to track website changes 📅
-✅ Save results to a file for further analysis 💾
-✅ Built-in Error Handling to avoid rate limiting 🚀
-✅ Optimized Requests for fast and efficient execution ⚡
+🎯 Features <br>
+✅ Retrieve Archived URLs from Wayback Machine 📂<br>
+✅ Extract JavaScript, JSON, PHP, XML files for sensitive data discovery 🔑<br>
+✅ Find old web pages that may have unpatched vulnerabilities ⚠️<br>
+✅ Fetch data from specific years to track website changes 📅<br>
+✅ Save results to a file for further analysis 💾<br>
+✅ Built-in Error Handling to avoid rate limiting 🚀<br>
+✅ Optimized Requests for fast and efficient execution ⚡<br>
 
-📌 Installation
+📌 Installation<br>
+
 Clone the repository and install dependencies:
 
 # Clone the repository
@@ -41,11 +42,11 @@ _**🚀 Usage**_
 ![alt Text](image_url)
 
 ⚠️ Disclaimer
-🚨 This tool is intended for educational and legal security testing purposes only.
-🚨 Unauthorized use of this tool on systems without permission is strictly prohibited.
+🚨 This tool is intended for educational and legal security testing purposes only.<br>
+🚨 Unauthorized use of this tool on systems without permission is strictly prohibited.<br>
 
-🤝 Contributing
-💡 Feel free to fork, improve, and create pull requests to enhance this tool!
+🤝 Contributing<br>
+💡 Feel free to fork, improve, and create pull requests to enhance this tool!<br>
 
 📧 Developer: Akash (@myselfakash20)
 
