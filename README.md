@@ -1,6 +1,6 @@
 # CDX Recon - Wayback Machine Recon Tool
 
-** A fast and efficient tool for bug bounty hunters and security researchers **
+**A fast and efficient tool for bug bounty hunters and security researchers**
 
 🛠 About CDX Recon
 CDX Recon is a powerful Python tool designed for bug bounty hunters and security researchers. It automates the retrieval of archived URLs, JavaScript files, API endpoints, and subdomains from the Wayback Machine (CDX API), helping you uncover hidden attack surfaces efficiently.
@@ -20,8 +20,8 @@ Clone the repository and install dependencies:
 bash
 Copy code
 # Clone the repository
-git clone https://github.com/myselfakash20/cdx_recon.git
-cd cdx_recon
+`git clone https://github.com/myselfakash20/cdx_recon.git
+cd cdx_recon `
 
 # Install dependencies
 pip install -r requirements.txt
