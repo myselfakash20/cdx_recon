@@ -19,7 +19,7 @@ Clone the repository and install dependencies:
 
 # Clone the repository
 ```
-git clone https://github.com/myselfakash20/cdx_recon.git <br>
+git clone https://github.com/myselfakash20/cdx_recon.git 
 cd cdx_recon
 ```
 # Install dependencies
