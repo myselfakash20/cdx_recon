@@ -23,7 +23,7 @@ git clone https://github.com/myselfakash20/cdx_recon.git
 cd cdx_recon
 ```
 # Install dependencies
-pip install -r requirements.txt
+pip install -r requirements.txt <br>
 🚀 Usage
 🔍 Fetch All Archived URLs
 bash
