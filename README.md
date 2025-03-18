@@ -24,31 +24,22 @@ cd cdx_recon
 ```
 # Install dependencies
 `pip install -r requirements.txt` <br>
-_*🚀 Usage*_
-🔍 Fetch All Archived URLs
-bash
-Copy code
-python3 cdx_recon.py -d example.com
+
+_**🚀 Usage**_
+
+🔍 Fetch All Archived URLs:
+`python3 cdx_recon.py -d example.com`
+
 🗂 Extract Specific File Types (JS, JSON, PHP, XML, TXT, PDF, ASPX, JSP, etc.)
-bash
-Copy code
-python3 cdx_recon.py -d example.com -f js
+`python3 cdx_recon.py -d example.com -f js`
 🕵️‍♂️ Find Old Web Pages by Year
-bash
-Copy code
-python3 cdx_recon.py -d example.com --from-year 2015 --to-year 2020
+`python3 cdx_recon.py -d example.com --from-year 2015 --to-year 2020`
 💾 Save Results to a File
-bash
-Copy code
-python3 cdx_recon.py -d example.com -f php -o results.txt
+`python3 cdx_recon.py -d example.com -f php -o results.txt`
 🔥 Example Output
-less
-Copy code
-[+] Fetching archived URLs...
-[+] Found URLs:
-http://example.com/login.php
-http://example.com/admin.js
-http://example.com/api/v1/user.json
+
+![alt Text](image_url)
+
 ⚠️ Disclaimer
 🚨 This tool is intended for educational and legal security testing purposes only.
 🚨 Unauthorized use of this tool on systems without permission is strictly prohibited.
