@@ -29,6 +29,12 @@ cd cdx_recon
 
 _**🚀 Usage**_
 
+*💡Need help!:*
+
+`python3 cdx_recon -h`<br>
+
+![alt Text](https://raw.githubusercontent.com/myselfakash20/cdx_recon/refs/heads/main/image2.jpg)
+
 *🔍 Fetch All Archived URLs:*
 
 `python3 cdx_recon.py -d example.com`<br>
