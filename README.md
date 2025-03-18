@@ -44,7 +44,7 @@ _**🚀 Usage**_
 
 *🔥 Example Output*
 
-![alt Text](image_url)
+![alt Text]([image_url](https://raw.githubusercontent.com/myselfakash20/cdx_recon/refs/heads/main/image.jpg))
 
 ⚠️ Disclaimer<br>
 **🚨 This tool is intended for educational and legal security testing purposes only.** <br>
