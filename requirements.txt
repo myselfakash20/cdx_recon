@@ -1,0 +1,7 @@
+requests
+argparse
+re
+sys
+threading
+time
+pyfiglet
