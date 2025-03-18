@@ -31,12 +31,12 @@ _**🚀 Usage**_
 🔍 Fetch All Archived URLs:
 `python3 cdx_recon.py -d example.com`
 
-🗂 Extract Specific File Types (JS, JSON, PHP, XML, TXT, PDF, ASPX, JSP, etc.)
+🗂 Extract Specific File Types (JS, JSON, PHP, XML, TXT, PDF, ASPX, JSP, etc.) <br>
 `python3 cdx_recon.py -d example.com -f js`
-🕵️‍♂️ Find Old Web Pages by Year
-`python3 cdx_recon.py -d example.com --from-year 2015 --to-year 2020`
-💾 Save Results to a File
-`python3 cdx_recon.py -d example.com -f php -o results.txt`
+🕵️‍♂️ Find Old Web Pages by Year<br>
+`python3 cdx_recon.py -d example.com --from-year 2015 --to-year 2020`<br>
+💾 Save Results to a File<br>
+`python3 cdx_recon.py -d example.com -f php -o results.txt`<br>
 *🔥 Example Output*
 
 ![alt Text](image_url)
