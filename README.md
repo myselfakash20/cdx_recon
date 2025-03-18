@@ -37,13 +37,13 @@ _**🚀 Usage**_
 `python3 cdx_recon.py -d example.com --from-year 2015 --to-year 2020`
 💾 Save Results to a File
 `python3 cdx_recon.py -d example.com -f php -o results.txt`
-🔥 Example Output
+*🔥 Example Output*
 
 ![alt Text](image_url)
 
-⚠️ Disclaimer
-🚨 This tool is intended for educational and legal security testing purposes only.<br>
-🚨 Unauthorized use of this tool on systems without permission is strictly prohibited.<br>
+⚠️ Disclaimer<br>
+**🚨 This tool is intended for educational and legal security testing purposes only.** <br>
+**🚨 Unauthorized use of this tool on systems without permission is strictly prohibited.** <br>
 
 🤝 Contributing<br>
 💡 Feel free to fork, improve, and create pull requests to enhance this tool!<br>
