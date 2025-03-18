@@ -1,6 +1,6 @@
- CDX Recon - Wayback Machine Recon Tool
+# CDX Recon - Wayback Machine Recon Tool
 
-A fast and efficient tool for bug bounty hunters and security researchers
+** A fast and efficient tool for bug bounty hunters and security researchers **
 
 🛠 About CDX Recon
 CDX Recon is a powerful Python tool designed for bug bounty hunters and security researchers. It automates the retrieval of archived URLs, JavaScript files, API endpoints, and subdomains from the Wayback Machine (CDX API), helping you uncover hidden attack surfaces efficiently.
